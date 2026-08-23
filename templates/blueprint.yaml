@@ -1,0 +1,37 @@
+schema_version: "1.0"
+generated:
+  mode: full
+  repository_root: "."
+  revision: null
+project:
+  name: null
+  summary: null
+  repository_type: null
+  languages: []
+  frameworks: []
+  package_managers: []
+runtime_units: []
+entrypoints: []
+modules: []
+runtime_flows: []
+data:
+  stores: []
+  entities: []
+contracts:
+  apis: []
+  events: []
+  public_interfaces: []
+external_services: []
+environment:
+  required_variables: []
+build:
+  commands: []
+test:
+  commands: []
+deploy:
+  targets: []
+rationale: []
+reconstruction:
+  phases: []
+unknowns: []
+validation: []
